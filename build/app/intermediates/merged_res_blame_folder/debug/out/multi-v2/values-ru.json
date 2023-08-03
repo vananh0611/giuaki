@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.gkbai2.app-mergeDebugResources-8:/values-ru/values-ru.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\congc\\.gradle\\caches\\transforms-3\\985bef1bab5ab226382de091316b22d3\\transformed\\core-1.6.0\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

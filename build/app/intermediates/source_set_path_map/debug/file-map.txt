@@ -1,0 +1,11 @@
+com.example.gkbai2.app-jetified-window-1.0.0-beta04-0 C:\Users\congc\.gradle\caches\transforms-3\2c0f236a9e2148a6b2793b26c40e8295\transformed\jetified-window-1.0.0-beta04\res
+com.example.gkbai2.app-jetified-annotation-experimental-1.1.0-1 C:\Users\congc\.gradle\caches\transforms-3\4d6d80c678eec170bb2fd4f561769502\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.gkbai2.app-core-1.6.0-2 C:\Users\congc\.gradle\caches\transforms-3\985bef1bab5ab226382de091316b22d3\transformed\core-1.6.0\res
+com.example.gkbai2.app-jetified-window-java-1.0.0-beta04-3 C:\Users\congc\.gradle\caches\transforms-3\e163d0f77dff655eba71c3293ba62651\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.gkbai2.app-debug-4 E:\gk\gk\gkbai2\android\app\src\debug\res
+com.example.gkbai2.app-main-5 E:\gk\gk\gkbai2\android\app\src\main\res
+com.example.gkbai2.app-pngs-6 E:\gk\gk\gkbai2\build\app\generated\res\pngs\debug
+com.example.gkbai2.app-resValues-7 E:\gk\gk\gkbai2\build\app\generated\res\resValues\debug
+com.example.gkbai2.app-mergeDebugResources-8 E:\gk\gk\gkbai2\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.gkbai2.app-mergeDebugResources-9 E:\gk\gk\gkbai2\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.gkbai2.app-merged_res-10 E:\gk\gk\gkbai2\build\app\intermediates\merged_res\debug
